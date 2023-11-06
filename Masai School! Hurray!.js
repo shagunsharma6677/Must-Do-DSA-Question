@@ -35,8 +35,8 @@
 // Masai
 
 function masaiSchoolHurray(N) {
-  // Write code here
 
+  // Write code here
   for (let i = 1; i <= N; i++) {
     if (i % 5 === 0 && i % 7 === 0) {
       console.log("Masai School");
